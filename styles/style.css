@@ -1,8 +1,8 @@
 
 header {
     width: 400px;
-    border: 1px solid red;
-    background-color: red;
+    border: 1px solid lightgreen;
+    background-color: lightgreen;
     text-align: center;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -41,7 +41,7 @@ main {
 
 footer {
     height: 35px;
-    background-color: red;
+    background-color: lightgreen;
     width: 400px;
     margin-left: 10px;
     border-radius: 0px 0px 20px 20px;
@@ -50,3 +50,14 @@ footer {
 * {
     box-sizing: border-box;
 }
+
+#pink {
+    color: hotpink;
+    background-color: indigo;
+}
+
+#blue {
+    color: aqua;
+    background-color: darkblue;
+}
+
